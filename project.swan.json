@@ -1,0 +1,24 @@
+{
+    "appid": "16336092",
+    "projectname": "lawyer",
+    "host": "baiduboxapp",
+    "setting": {
+        "urlCheck": false
+    },
+    "swan": {
+        "baiduboxapp": {
+            "swanJsVersion": "3.660.2",
+            "extensionJsVersion": "1.21.2"
+        }
+    },
+    "compilation-args": {
+        "common": {
+            "quickPreview": true,
+            "ignoreTransJs": true
+        },
+        "forceChanged": {}
+    },
+    "preview": {
+        "packageId": 1674365
+    }
+}
